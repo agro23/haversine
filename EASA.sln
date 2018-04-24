@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EASA", "EASA\EASA.csproj", "{A2F9B085-46F5-40E4-9E23-2B41223726D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EASA.Tests", "EASA.Tests\EASA.Tests.csproj", "{96837445-D9FB-4B1A-A196-247B3AA100CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A2F9B085-46F5-40E4-9E23-2B41223726D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2F9B085-46F5-40E4-9E23-2B41223726D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2F9B085-46F5-40E4-9E23-2B41223726D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96837445-D9FB-4B1A-A196-247B3AA100CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96837445-D9FB-4B1A-A196-247B3AA100CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96837445-D9FB-4B1A-A196-247B3AA100CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96837445-D9FB-4B1A-A196-247B3AA100CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
